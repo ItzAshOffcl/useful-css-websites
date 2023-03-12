@@ -35,7 +35,7 @@
     - You can also customize the grid template, preview the layout in real-time and get html, css code instantly.
     - [Website Link](https://cssgrid-generator.netlify.app/)
 
-<a href="https://cssgrid-generator.netlify.app/"><img src="https://user-images.githubusercontent.com/126890586/224533383-dff8fdbb-80f9-4a6f-97e8-ff8b93094bb0.png" width=3000px></a>
+<a href="https://cssgrid-generator.netlify.app/"><img src="https://user-images.githubusercontent.com/126890586/224533383-dff8fdbb-80f9-4a6f-97e8-ff8b93094bb0.png" ></a>
 
 - **CSS Grid Garden** 
 
@@ -43,8 +43,15 @@
     - This website allows you to practice css grid in a more fun way. 
     - [Website Link](https://cssgridgarden.com/)
 
-<a href="https://cssgrid-generator.netlify.app/"><img src="https://user-images.githubusercontent.com/126890586/224534466-1eadb0d1-62c1-49b2-9179-97dfcb84c486.png" width=3000px></a>
+<a href="https://cssgridgarden.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
 
+- **CSS Grid Garden** 
+
+    - A web-based game that teaches you how to use CSS Grid to create complex grid layouts. 
+    - This website allows you to practice css grid in a more fun way. 
+    - [Website Link](https://grid.layoutit.com/)
+
+<a href="https://grid.layoutit.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
 
 <!-- ABOUT THE PROJECT -->
 
