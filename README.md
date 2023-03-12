@@ -47,12 +47,21 @@
 
 - **CSS Grid Garden** 
 
-    - A web-based game that teaches you how to use CSS Grid to create complex grid layouts. 
-    - This website allows you to practice css grid in a more fun way. 
+    - It helps you quickly design web layouts, and get HTML and CSS code. 
+    - This website let you learn CSS Grid visually and build web layouts with its interactive CSS Grid Generator.
     - [Website Link](https://grid.layoutit.com/)
 
-<a href="https://grid.layoutit.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
+<a href="https://grid.layoutit.com/"><img src="https://user-images.githubusercontent.com/126890586/224535122-1928ec8a-bb19-496e-9b1b-11ebe8c49f5d.png" ></a>
 
+## **CSS FLEXBOX**
+
+- **CSS Flexbox Froggy** 
+
+    - A web-based game that teaches you how to use CSS Flexbox to create flexible and responsive layouts.
+    - This website allows you to practice css Flex box in a more fun way. 
+    - [Website Link](https://flexboxfroggy.com/)
+
+<a href="https://flexboxfroggy.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
 <!-- ABOUT THE PROJECT -->
 
 <!-- ACKNOWLEDGMENTS -->
