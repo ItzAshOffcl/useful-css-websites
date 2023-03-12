@@ -61,7 +61,7 @@
     - This website allows you to practice css Flex box in a more fun way. 
     - [Website Link](https://flexboxfroggy.com/)
 
-<a href="https://flexboxfroggy.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
+<a href="https://flexboxfroggy.com/" target="_blank"><img src="https://user-images.githubusercontent.com/126890586/224535469-8434c801-27c3-4c26-873b-a7da9602ae1a.png" ></a>
 <!-- ABOUT THE PROJECT -->
 
 <!-- ACKNOWLEDGMENTS -->
