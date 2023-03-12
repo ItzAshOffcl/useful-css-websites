@@ -18,7 +18,7 @@
     <li>
       <a href="#css-grid">CSS GRID</a>
     </li>
-    <li><a href="#css-flexbox"></a>CSS FLEX BOX</li>
+    <li><a href="#css-flexbox">CSS FLEX BOX</a></li>
     <li><a href="#"></a></li>
   </ol>
 </details>
