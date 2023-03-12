@@ -1,4 +1,4 @@
-# <h1 align = "center" id="readme-top"><b>JAVA SNAKE GAME PROJECT</b></h1>
+# <h1 align = "center" id="readme-top"><b>USEFUL CSS WEBSITES 🔥</b></h1>
 <br />
     
 
