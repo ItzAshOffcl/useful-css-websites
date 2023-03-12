@@ -29,13 +29,21 @@
 <br>
 
 - **CSS Grid Generator** 
-    * A website that allows you to create custom CSS grids with ease. 
+
+    - A website that allows you to create custom CSS grids with ease. 
     - This website allows you to easily create custom CSS grids by specifying the number of columns, gutters, and other options. 
     - You can also customize the grid template, preview the layout in real-time and get html, css code instantly.
+    - [Website Link](https://cssgrid-generator.netlify.app/)
+
+<a href="https://cssgrid-generator.netlify.app/"><img src="https://user-images.githubusercontent.com/126890586/224533383-dff8fdbb-80f9-4a6f-97e8-ff8b93094bb0.png" width=3000px></a>
+
+- **CSS Grid Garden** 
+
+    - A web-based game that teaches you how to use CSS Grid to create complex grid layouts. 
+    - This website allows you to practice css grid in a more fun way. 
+    - [Website Link](https://cssgridgarden.com/)
 
 
-
-<img src="screenshot.png" width=3000px>
 
 <!-- ABOUT THE PROJECT -->
 
