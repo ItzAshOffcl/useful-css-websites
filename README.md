@@ -71,7 +71,7 @@
     - This website allows you to practice css Flex box by moving your towers to prevent enemies from attacking. 
     - [Website Link](http://www.flexboxdefense.com/)
 
-<a href="http://www.flexboxdefense.com/"><img src="https://user-images.githubusercontent.com/126890586/224535469-8434c801-27c3-4c26-873b-a7da9602ae1a.png" ></a>
+<a href="http://www.flexboxdefense.com/"><img src="https://user-images.githubusercontent.com/126890586/226170087-fc1651d0-573a-4404-8b1d-6a8db989149d.png" ></a>
 
 <!-- ACKNOWLEDGMENTS -->
 ## **Acknowledgments**
