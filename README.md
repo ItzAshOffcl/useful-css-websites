@@ -45,7 +45,7 @@
 
 <a href="https://cssgridgarden.com/"><img src="https://user-images.githubusercontent.com/126890586/224534682-db568524-d50d-490e-a9fd-85622c6e094c.png" ></a>
 
-- **CSS Grid Garden** 
+- **Layout It!** 
 
     - It helps you quickly design web layouts, and get HTML and CSS code. 
     - This website let you learn CSS Grid visually and build web layouts with its interactive CSS Grid Generator.
@@ -57,7 +57,7 @@
 
 ## **CSS FLEXBOX**
 
-- **CSS Flexbox Froggy** 
+- **Flexbox Froggy** 
 
     - A web-based game that teaches you how to use CSS Flexbox to create flexible and responsive layouts.
     - This website allows you to practice css Flex box in a more fun way. 
@@ -65,13 +65,16 @@
 
 <a href="https://flexboxfroggy.com/"><img src="https://user-images.githubusercontent.com/126890586/224535469-8434c801-27c3-4c26-873b-a7da9602ae1a.png" ></a>
 
-- **CSS Flexbox Froggy** 
+- **Flexbox Defense** 
 
     - A web-based game that teaches you how to learn CSS Flexbox.
     - This website allows you to practice css Flex box by moving your towers to prevent enemies from attacking. 
     - [Website Link](http://www.flexboxdefense.com/)
 
 <a href="http://www.flexboxdefense.com/"><img src="https://user-images.githubusercontent.com/126890586/226170087-fc1651d0-573a-4404-8b1d-6a8db989149d.png" ></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## **Acknowledgments**
